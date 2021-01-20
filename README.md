@@ -1,1 +1,2 @@
-# hammer.js-
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
